@@ -1,0 +1,4 @@
+---
+# defaults file for Kubernete-CentOS-InitSys
+PROXY_MODE: "ipvs"
+INSTALL_SOURCE: "online"
